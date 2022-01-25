@@ -1,0 +1,28 @@
+#header{
+    background-color:red;
+    height: 70px;
+    width:100%;
+    
+}
+#title{
+    margin-left:20%
+}
+#img-div{
+    
+    margin-left: 20%;
+}
+
+#image{
+    height:30%;
+    width:70%
+}
+
+@media only screen and (max-width: 768px) {
+    #title{
+        margin-left:20px
+    }
+    #img-div{
+        
+        margin-left: 20px;
+    }
+  }
